@@ -11,7 +11,7 @@
 ---
 
 ## 🤖 大模型
-- 
+- [个人超级智能体](https://github.com/Sycamore-777/Sycamore-AI) - 面向复杂任务的超级智能体，支持多工具调用、工作流编排、记忆与知识检索、可观测与评测。目标是把“需求 → 计划 → 执行 → 反馈 → 迭代”做成可复用的工程化闭环。**当前仍处于私有期间**
 ### 不再维护
 - [first-langgraph ](https://github.com/Sycamore-777/first-langgraph) - 个人首次langgraph尝试。
 - [langgraph_chatBI](https://github.com/Sycamore-777/langgraph_chatBI) - 基于langgraph的chatBI系统，效果比较一般，大家不要使用。
