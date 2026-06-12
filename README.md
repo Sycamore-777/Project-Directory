@@ -5,7 +5,7 @@
 
 ## 📖 学习
 - [Study](https://github.com/Sycamore-777/Study) - 学习一些功能的简单实现，将各项学习内容都放在这个文件夹中
-
+- [个人学习笔记](https://github.com/Sycamore-777/sycamore-notes) - 记录了学习过程中遇到的相对独立完整的知识模块。
 **检索：** `topic:study` 
 
 ---
